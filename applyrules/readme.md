@@ -1,4 +1,4 @@
-This category of questions will ask the students to apply a well-defined set of rules to given data.
+**This category of questions will ask the students to apply a well-defined set of rules to given data.**
 
 Example: 
 On a distant planet, the dominant carnivore, the zab, is nearing extinction. The number of zabs born in any year is one more that the (positive) difference between the number born in the previous year and the number born in the year before that. 
