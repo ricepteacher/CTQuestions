@@ -1,5 +1,9 @@
 **This category of questions will ask the students to apply a well-defined set of rules to given data.**
 
+Relevance:
+
+The questions in this section are often straightforward questions appearing early in the paper. But they still represent an important part of information technology (IT). An essential part of gathering requirements for a project is understanding the customer’s business rules. Many projects have failed simply because the customers have not been able to communicate them to the developers. This problem is addressed in Agile methodologies such as Extreme Programming by using tests to enhance communication. A developer could ask a customer a question such as 'So if a DVD is returned 8 days late the fine is $5?' This has proved a very effective way of making sure that customers and developers understand one another.
+
 Example: 
 
 On a distant planet, the dominant carnivore, the zab, is nearing extinction. The number of zabs born in any year is one more that the (positive) difference between the number born in the previous year and the number born in the year before that. 
