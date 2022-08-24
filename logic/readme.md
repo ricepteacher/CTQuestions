@@ -1,4 +1,4 @@
-**This category of questions will ask the students to solve non-algorithmic puzzles to encourage rigorous reasoning and case analysis. **
+**This category of questions will ask the students to solve non-algorithmic puzzles to encourage rigorous reasoning and case analysis**
 
 Example:
 
