@@ -13,8 +13,8 @@ If 7 zabs were born last year and 5 the year before, 3 would be born this year. 
 
 (A) 2009  (B) 2011  (C) 2013  (D) 2015  (E) 2017
 
-*Solution: 
+*Solution:* 
 
 Applying the rule, we have 2, 9 -> 8 -> 2 -> 7 -> 6 -> 2 -> 5 -> 4 -> 2 -> 3 -> 2 -> 2 -> 1
 
-12 more years were required, hence (C) is the answer*
+12 more years were required, hence (C) is the answer
